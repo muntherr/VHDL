@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/HP/Desktop/University/First_Semester 2021/Encs533-Advanced Digital/VHDL/Final_project/Final_project/src/Full_circuit.vhd" 
+MESSAGE "Compile Entity "Full"" 
+MESSAGE "Compile Architecture "Final" of Entity "Full"" 
+MESSAGE "Compile Entity "CLK_Full"" 
+MESSAGE "Compile Architecture "Final_CLK" of Entity "CLK_Full"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

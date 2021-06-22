@@ -1,0 +1,67 @@
+222
+~E 1 "../src/Gates.vhd" 6 and2
+~A 1 "../src/Gates.vhd" 11 a2
+~E 1 "../src/Gates.vhd" 23 and3
+~A 1 "../src/Gates.vhd" 28 a3
+~E 1 "../src/Gates.vhd" 37 and4
+~A 1 "../src/Gates.vhd" 42 a4
+~E 1 "../src/Gates.vhd" 52 and5
+~A 1 "../src/Gates.vhd" 57 a5
+~E 1 "../src/BCD Adder.vhd" 4 BCD
+~A 1 "../src/BCD Adder.vhd" 11 stBCD
+~E 1 "../src/BCD Adder.vhd" 62 BCD_CLK
+~A 1 "../src/BCD Adder.vhd" 69 stBCD_CLK
+~E 1 "../src/CLK.vhd" 6 CLK
+~A 1 "../src/CLK.vhd" 14 F_CLK
+~E 1 "../src/Full_circuit.vhd" 37 CLK_Full
+~A 1 "../src/Full_circuit.vhd" 46 Final_CLK
+~E 1 "../src/D_filp_flop.vhd" 4 Dff
+~A 1 "../src/D-flip flop.vhd" 9 D_ff
+~E 1 "../src/Adders.vhd" 10 Fa
+~A 1 "../src/Adders.vhd" 16 sit
+~A 1 "../src/4-bit adder.vhd" 12 st
+~E 1 "../src/4-bit adder.vhd" 33 Four_bit_adder
+~A 1 "../src/Adders.vhd" 49 Four_adder
+~E 1 "../src/Full_circuit.vhd" 6 Full
+~A 1 "../src/Full_circuit.vhd" 15 Final
+~E 1 "../src/Gates.vhd" 34 inverter2
+~A 1 "../src/Gates.vhd" 132 i2
+~E 1 "../src/Register.vhd" 4 jkff
+~A 1 "../src/Register.vhd" 9 jk
+~E 1 "../src/Register.vhd" 35 jkReg
+~A 1 "../src/Register.vhd" 42 jk_reg
+~E 1 "../src/Gates.vhd" 50 Nand2
+~A 1 "../src/Gates.vhd" 148 N2
+~E 1 "../src/D_filp_flop.vhd" 27 nbit_Dreg
+~A 1 "../src/D-flip flop.vhd" 33 D_reg
+~E 1 "../src/Register.vhd" 35 nbit_jkReg
+~A 1 "../src/Register.vhd" 43 jk_reg
+~E 1 "../src/T_filp_flop.vhd" 27 nbit_treg
+~A 1 "../src/D_filp_flop.vhd" 33 t_reg
+~E 1 "../src/Gates.vhd" 64 Nor2
+~A 1 "../src/Gates.vhd" 162 No2
+~E 1 "../src/Gates.vhd" 20 or2
+~A 1 "../src/Gates.vhd" 73 o2
+~E 1 "../src/Gates.vhd" 34 or3
+~A 1 "../src/Gates.vhd" 87 o3
+~E 1 "../src/Gates.vhd" 96 or4
+~A 1 "../src/Gates.vhd" 101 o4
+~E 1 "../src/Gates.vhd" 111 or5
+~A 1 "../src/Gates.vhd" 116 o5
+~E 1 "../src/T_filp_flop.vhd" 4 tff
+~A 1 "../src/T_filp_flop.vhd" 9 t_ff
+~E 1 "../src/BCD Adder.vhd" 31 twoDigit_bcd
+~A 1 "../src/BCD Adder.vhd" 40 Bcd_two
+~E 1 "../src/BCD Adder.vhd" 90 twoDigit_bcd_CLK
+~A 1 "../src/BCD Adder.vhd" 97 CLk_Bcd_two
+~E 1 "../src/Circuit Verification.vhd" 10 Ver
+~A 1 "../src/Circuit Verification.vhd" 15 Ver_BCD_FourBit
+~A 1 "../src/Circuit Verification.vhd" 129 Ver_BCD_FourBit_CLK
+~E 1 "../src/Circuit Verification.vhd" 124 Ver_CLK
+~A 1 "../src/Circuit Verification.vhd" 129 Ver_BCD_FourBit_CLK
+~E 1 "../src/Gates.vhd" 92 Xnor2
+~A 1 "../src/Gates.vhd" 204 xn2
+~E 1 "../src/Gates.vhd" 78 Xor2
+~A 1 "../src/Gates.vhd" 176 x2
+~E 1 "../src/Gates.vhd" 92 Xor3
+~A 1 "../src/Gates.vhd" 190 x3

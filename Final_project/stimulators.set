@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<document type="stimulators" version="1">
+		<set name="ASDB Stimulators" active="1">
+			<stimulator>
+				<signal_path value="/Ver_CLK/clk1"/>
+				<rawdescription value="CLK:FRM:Override:135.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/clk2"/>
+				<rawdescription value="CLK:FRM:Override:145.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(0)"/>
+				<rawdescription value="CLK:FRM:Override:120.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(1)"/>
+				<rawdescription value="CLK:FRM:Override:130.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(2)"/>
+				<rawdescription value="CLK:FRM:Override:140.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(3)"/>
+				<rawdescription value="CLK:FRM:Override:150.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(4)"/>
+				<rawdescription value="CLK:FRM:Override:160.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(5)"/>
+				<rawdescription value="CLK:FRM:Override:170.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(6)"/>
+				<rawdescription value="CLK:FRM:Override:180.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_a(7)"/>
+				<rawdescription value="CLK:FRM:Override:190.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(0)"/>
+				<rawdescription value="CLK:FRM:Override:125.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(1)"/>
+				<rawdescription value="CLK:FRM:Override:135.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(2)"/>
+				<rawdescription value="CLK:FRM:Override:145.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(3)"/>
+				<rawdescription value="CLK:FRM:Override:155.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(4)"/>
+				<rawdescription value="CLK:FRM:Override:165.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(5)"/>
+				<rawdescription value="CLK:FRM:Override:175.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(6)"/>
+				<rawdescription value="CLK:FRM:Override:185.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_b(7)"/>
+				<rawdescription value="CLK:FRM:Override:195.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/in_carry"/>
+				<rawdescription value="CLK:FRM:Override:130.000000;2;1;0;50;1:Clock:1:"/>
+			</stimulator>
+			<stimulator>
+				<signal_path value="/Ver_CLK/reset"/>
+				<rawdescription value="VAL:FRM:Override:0:&lt;= 0:1:"/>
+			</stimulator>
+		</set>
+	</document>
+</XML>

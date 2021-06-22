@@ -1,0 +1,49 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=Final_project
+
+[Library]
+Final_project=.\Final_project\Final_project.lib
+
+[$LibMap$]
+Final_project=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=full|Final|0 ver|Ver_BCD_FourBit|0 ver_clk|Ver_BCD_FourBit_CLK|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/Gates.vhd=-1
+/BCD Adder.vhd=-1
+/CLK.vhd=-1
+/Adders.vhd=-1
+/Full_circuit.vhd=-1
+/Circuit Verification.vhd=-1
+/D-flip flop.vhd=-1
+
+[Files.Data]
+.\src\Gates.vhd=VHDL Source Code
+.\src\BCD Adder.vhd=VHDL Source Code
+.\src\CLK.vhd=VHDL Source Code
+.\src\Adders.vhd=VHDL Source Code
+.\src\Full_circuit.vhd=VHDL Source Code
+.\src\Circuit Verification.vhd=VHDL Source Code
+.\src\D-flip flop.vhd=VHDL Source Code
+

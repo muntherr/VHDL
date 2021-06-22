@@ -1,0 +1,45 @@
+Active-HDL 11.1.262.7351 2020-12-19 23:20:01
+
+Elaboration top modules:
+Architecture                  Ver_BCD_FourBit_CLK(Ver_CLK)
+
+
+--------------------------------------------------------------------------------------------------------------
+Entity           | Architecture        | Library       | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------------------
+Ver_CLK          | Ver_BCD_FourBit_CLK | final_project |      | 11.1.262.7351 (Windows) | -O3
+CLK_Full         | Final_CLK           | final_project |      | 11.1.262.7351 (Windows) | -O3
+nbit_treg        | t_reg               | final_project |      | 11.1.262.7351 (Windows) | -O3
+twoDigit_bcd_CLK | CLk_Bcd_two         | final_project |      | 11.1.262.7351 (Windows) | -O3
+tff              | t_ff                | final_project |      | 11.1.262.7351 (Windows) | -O3
+BCD_CLK          | stBCD_CLK           | final_project |      | 11.1.262.7351 (Windows) | -O3
+CLK              | F_CLK               | final_project |      | 11.1.262.7351 (Windows) | -O3
+and2             | a2                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+or3              | o3                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+or2              | o2                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+and3             | a3                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+and4             | a4                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+or4              | o4                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+and5             | a5                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+or5              | o5                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+Xor2             | x2                  | final_project |      | 11.1.262.7351 (Windows) | -O3
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+VHDL Package                           | Library       | Info | Compiler Version        | Compilation Options
+--------------------------------------------------------------------------------------------------------------
+standard                               | std           |      |                         | <unavailable>
+TEXTIO                                 | std           |      |                         | <unavailable>
+std_logic_1164                         | ieee          |      |                         | <unavailable>
+STD_LOGIC_TEXTIO                       | ieee          |      |                         | <unavailable>
+std_logic_arith                        | ieee          |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED                     | ieee          |      |                         | <unavailable>
+--------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------
+Library                                | Comment
+--------------------------------------------------------------------------------------------------------------
+final_project                          | None
+ieee                                   | Standard IEEE packages library
+std                                    | Standard VHDL library
+--------------------------------------------------------------------------------------------------------------
